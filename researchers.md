@@ -5,6 +5,7 @@
 * [Emil du Bios-Reymond](https://en.wikipedia.org/wiki/Emil_du_Bois-Reymond) - action potential (1848)
 * [Richard Caton](https://en.wikipedia.org/wiki/Richard_Caton) - "feeble currents of varying directions pass through the multiplier when the electrodes are placed on two points of external surface", first description of EEG (1875)
 * [Hans Berger](https://en.wikipedia.org/wiki/Hans_Berger) - human scalp eeg, "Über das Elektroenkephalogramm des Menschen" (1929)
+* [John Zachary Young](https://en.wikipedia.org/wiki/John_Zachary_Young) - proposed to study squid giant axon, "one of the most influential biologists of the 20th century" 🦑 (1930s)
 
   
 # 🇵🇱
