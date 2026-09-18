@@ -12,8 +12,11 @@
 * [Napoleon N. Cybulski](https://en.wikipedia.org/wiki/Napoleon_Cybulski) - ecog, adrenaline, endocrinology
 * Włodzimierz Włodzimierzowicz Prawdzicz-Niemiński - first uploaded eeg photo (1912), proposed "electrocerebrogram"
 
-# Literature
+# 📖 current & impactful
+* [Paul Nunez](https://www.researchgate.net/profile/Paul-Nunez-2/research) - [neurophysics](https://en.wikipedia.org/wiki/Neurophysics)
 
+  
+# literature
 [brain-wiki educational materials for neuroinformatics students](https://brain.fuw.edu.pl/edu/index.php/Elektroencefalografia/Elektroencefalogram_czyli_EEG)
 
  
